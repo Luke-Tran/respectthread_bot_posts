@@ -1,0 +1,2 @@
+Blacklisted usernames separated by newlines, '\n'
+ExampleUsername
