@@ -15,5 +15,3 @@ Database data is not provided.
 - [**PRAW**](https://praw.readthedocs.io/en/latest/getting_started/installation.html) (Python Library for Reddit)
 
 - [**Psycopg2**](http://initd.org/psycopg/download/) (Python Library for PostgreSQL)
-
--
